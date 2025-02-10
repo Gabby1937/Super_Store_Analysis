@@ -1,0 +1,32 @@
+Super Store Analysis Data Search
+
+Sales, Quantity, Discount and Profit
+
+Problems:
+Owner wants to know where the most Profit is made from:
+ 
+Categories 
+Sub_Categories
+Ship Mode
+Segment
+etc.
+
+Owner wants to know where the Most Sales is made from:
+Region
+City, 
+Country, 
+Ship Mode
+Segments
+
+Customer who contribute the highest sales:
+
+Years Sales and Profit Comparism
+Monthly Sales Timeframe 
+
+Counting Generally:
+Categorical Product count
+Products in City count
+Customers in Region count
+Segments Sales count
+
+Solution:
